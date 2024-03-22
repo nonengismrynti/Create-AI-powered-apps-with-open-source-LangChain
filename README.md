@@ -1,16 +1,16 @@
-# Create-AI-powered-apps-with-open-source-LangChain
+# Create-AI-powered-apps-with-open-source-LangChain ⛓️
 
-### Author : Cognitive Class AI
+### Author : Cognitive Class AI 🤖👾
 
-### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Build a Create AI powered apps with open source LangChain
+### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Build a Create AI powered apps with open source LangChain 🌷⛓️✨
 
-### Mentee Info !!
+### Mentee Info !! 🔍
 
-### Name : Noneng Ismaryanti
-### Program : IBM Advance AI
+### Name : Noneng Ismaryanti 👩‍💻🦄
+### Program : IBM Advance AI 🤖
 
-### Tech Stack:
-### - Python
+### Tech Stack: 
+### - Python 
 ### - HTML
 ### - CSS
 ### - JavaScript
